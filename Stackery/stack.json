@@ -3,15 +3,16 @@
     {
       "id": "1a2a5b2a",
       "type": "function",
+      "x": 400,
+      "y": 185,
       "name": "Hello!",
       "outputs": 1,
       "memorySize": 128,
       "timeout": 30,
       "runtime": "nodejs8",
       "location": "inline",
-      "noerr": true,
-      "x": 400,
-      "y": 185,
+      "envVars": {},
+      "entryPoint": "",
       "wires": [
         []
       ]
@@ -19,15 +20,15 @@
     {
       "id": "e69bc75b",
       "type": "function",
+      "x": 400,
+      "y": 285,
       "name": "Echo",
       "outputs": 1,
       "memorySize": 128,
       "timeout": 30,
       "runtime": "nodejs8",
       "location": "inline",
-      "noerr": true,
-      "x": 400,
-      "y": 285,
+      "envVars": {},
       "wires": [
         []
       ]
