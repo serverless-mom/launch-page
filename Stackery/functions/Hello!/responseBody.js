@@ -1,6 +1,9 @@
 module.exports=`
 <style>
-  body {
+h1{
+    color:white;
+}
+body {
   margin-top: 50px;
   margin-left: 30%;
   background: linear-gradient(135deg, #040024 0%,#0a0050 50%,#0d1a6f 100%);
